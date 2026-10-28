@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>LiquidGlassTranslator Updates</title><link>https://ssiswent.github.io/LiquidGlassTranslator-Releases/appcast.xml</link><description>Signed personal release channel</description><item><title>LiquidGlassTranslator 0.1.3-beta.1</title><description sparkle:format="plain-text">Enables manual Sparkle checks for the approved Stable and Beta builds.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>LiquidGlassTranslator Updates</title><link>https://ssiswent.github.io/LiquidGlassTranslator-Releases/appcast.xml</link><description>Signed personal release channel</description><item><title>LiquidGlassTranslator 0.1.3-beta.2</title><description sparkle:format="plain-text">- Includes previously validated refinements to Keychain credential-access timing.
+- Preserves the AppKit-native Settings layouts for General, AI Services, Shortcuts, and About.
+- Supports Apple Silicon Macs running macOS 26 or later.
+- Automatic update checks and downloads remain disabled. Updates can be checked manually.
+
+- 保留此前已验收的 Keychain 凭据读取时机优化。
+- 保留 General、AI Services、Shortcuts 和 About 的原生 AppKit 设置布局。
+- 支持运行 macOS 26 或更新版本的 Apple 芯片 Mac。
+- 自动检查及自动下载更新保持关闭，用户可手动检查更新。</description><sparkle:version>15</sparkle:version><sparkle:shortVersionString>0.1.3-beta.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:channel>beta</sparkle:channel><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.3-beta.2/LiquidGlassTranslator-0.1.3-beta.2-macOS-arm64.zip" sparkle:edSignature="g6RujWMEK6c6Plnvt4KW5ddX10qLZIS/jE1P5pW8ft4Y+3JHEOQPjF1413hpXb6Gk/i2RUI3Tbl2k6n0dHL6AQ==" length="5872400" type="application/octet-stream"></enclosure></item><item><title>LiquidGlassTranslator 0.1.3-beta.1</title><description sparkle:format="plain-text">Enables manual Sparkle checks for the approved Stable and Beta builds.
 
 为获准的 Stable 与 Beta 构建启用手动 Sparkle 更新检查。</description><sparkle:version>14</sparkle:version><sparkle:shortVersionString>0.1.3-beta.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:channel>beta</sparkle:channel><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.3-beta.1/LiquidGlassTranslator-0.1.3-beta.1-macOS-arm64.zip" sparkle:edSignature="jSn7ArcfHFyqRQbwBAddcqAYNWYGx4Fn8TM7p9iTKKy6xkeqaex32SCShgHXxYd9BxuEGBfCKmv80AK/iPSfAA==" length="6855867" type="application/octet-stream"></enclosure></item><item><title>LiquidGlassTranslator 0.1.2</title><description sparkle:format="plain-text">Enables manual Sparkle checks for the approved Stable and Beta builds.
 
 为获准的 Stable 与 Beta 构建启用手动 Sparkle 更新检查。</description><sparkle:version>13</sparkle:version><sparkle:shortVersionString>0.1.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.2/LiquidGlassTranslator-0.1.2-macOS-arm64.zip" sparkle:edSignature="3OaNJWypgJeF0A4KI/Dzpu1eJ/8l7gQlAn5he3TUSafM0o66ThwwP0XUVtZb2tX6T3dv5BjqScq7fxlX6H+hBg==" length="6855873" type="application/octet-stream"></enclosure></item></channel></rss><!-- sparkle-signatures:
-edSignature: ZRdbbu2c2vSJbBzMW9AhsWpftVJSgooNzphme62Qo41Yqn28yAttgNHBTEG/FW9dNnYLJoBeOly2koqsAQrgBQ==
-length: 2122
+edSignature: 8wbxWnYFsf9juIwnQdlY/zZ+/V4iC50022JvTt8LPwtCIukx/TEJXusm0diP+z313feC5NPt8WTnnYcPKQqiAw==
+length: 3398
 -->
