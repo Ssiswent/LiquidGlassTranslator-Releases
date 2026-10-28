@@ -1,7 +1,10 @@
 # LiquidGlassTranslator Releases
 
-This public repository hosts the product's English and Chinese release notes and may host separately approved future release downloads. The LiquidGlassTranslator development source repository remains private.
+Official release downloads and update information for LiquidGlassTranslator on Apple silicon Macs running macOS 26 or later.
 
-At present, this repository publishes release notes only. It contains no application download, update feed, or automatic-update service. Any future application binaries or update feed require a separate owner-approved release.
+- [English website](https://ssiswent.github.io/LiquidGlassTranslator-Releases/en/)
+- [简体中文网站](https://ssiswent.github.io/LiquidGlassTranslator-Releases/zh/)
+- [GitHub Releases](https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases)
+- [Signed Sparkle Appcast](https://ssiswent.github.io/LiquidGlassTranslator-Releases/appcast.xml)
 
-Browse the [English release notes](https://ssiswent.github.io/LiquidGlassTranslator-Releases/en/) or [中文更新日志](https://ssiswent.github.io/LiquidGlassTranslator-Releases/zh/).
+The latest beta is 0.1.3-beta.2 (build 15); the latest stable release is 0.1.2 (build 13). Releases are Ad Hoc signed. Automatic update checks and downloads are disabled; users can check manually.
