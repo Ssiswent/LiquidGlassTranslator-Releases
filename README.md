@@ -7,4 +7,4 @@ Official release downloads and update information for LiquidGlassTranslator on A
 - [GitHub Releases](https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases)
 - [Signed Sparkle Appcast](https://ssiswent.github.io/LiquidGlassTranslator-Releases/appcast.xml)
 
-The latest beta is 0.1.3-beta.4 (build 17); the latest stable release is 0.1.2 (build 13). Releases are Ad Hoc signed. Automatic update checks and downloads are disabled; users can check manually.
+The latest beta is 0.1.3-beta.6 (build 19); the latest stable release is 0.1.2 (build 13)
