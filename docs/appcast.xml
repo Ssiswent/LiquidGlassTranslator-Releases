@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><item><title>LiquidGlassTranslator 0.1.3-beta.8</title><description sparkle:format="plain-text">Fixed first-launch compatibility for the embedded Sparkle framework in the Ad Hoc release build.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><item><title>LiquidGlassTranslator 0.1.3-beta.9</title><description sparkle:format="plain-text">Maintenance candidate for the package-only release validation path. No user-facing app behavior changes are included.
+
+The source changes since Beta 21 improve GitHub API rate-limit handling and post-publish verification recovery, and add a signed package-only validation path. These changes improve release operations; they do not add app features.
+
+用于仅打包发布验证流程的维护候选版本，不包含面向用户的应用行为变更。
+
+Beta 21 之后的源码改进了 GitHub API 限流处理、发布后验证恢复，并增加了带签名的仅打包验证流程。这些改动改善发布流程，不增加应用功能。</description><sparkle:version>22</sparkle:version><sparkle:shortVersionString>0.1.3-beta.9</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:channel>beta</sparkle:channel><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.3-beta.9/LiquidGlassTranslator-0.1.3-beta.9-macOS-arm64.zip" sparkle:edSignature="bUaBpTOtI3IPtVZensPiMfJm5Q/biPqYQ1BvfH1Wbf4y54hhdjGYsrB4aRdOmtSJEymZCZnwM7IwFRNocljADw==" length="6843903" type="application/octet-stream"></enclosure></item><item><title>LiquidGlassTranslator 0.1.3-beta.8</title><description sparkle:format="plain-text">Fixed first-launch compatibility for the embedded Sparkle framework in the Ad Hoc release build.
 
 修复 Ad Hoc 发布版本首次启动时无法加载内嵌 Sparkle 框架的问题。</description><sparkle:version>21</sparkle:version><sparkle:shortVersionString>0.1.3-beta.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:channel>beta</sparkle:channel><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.3-beta.8/LiquidGlassTranslator-0.1.3-beta.8-macOS-arm64.zip" sparkle:edSignature="AfQx8E+pJo375gLlVjBct5+lgYYn5ZA3kTRE8puUbJ9FSTXl4lSsi0nd2N3fFBIqhA/LAuCy7iBbyeelvpxaBQ==" length="6843891" type="application/octet-stream"></enclosure></item><item><title>LiquidGlassTranslator 0.1.3-beta.7</title><description sparkle:format="plain-text">Maintenance beta release for macOS 26 or later on Apple Silicon. This release contains no user-facing feature changes.
 
@@ -23,6 +29,6 @@ Provider API Key 与 ChatGPT OAuth 凭据现改用本地加密 Vault。升级后
 为获准的 Stable 与 Beta 构建启用手动 Sparkle 更新检查。</description><sparkle:version>14</sparkle:version><sparkle:shortVersionString>0.1.3-beta.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:channel>beta</sparkle:channel><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.3-beta.1/LiquidGlassTranslator-0.1.3-beta.1-macOS-arm64.zip" sparkle:edSignature="jSn7ArcfHFyqRQbwBAddcqAYNWYGx4Fn8TM7p9iTKKy6xkeqaex32SCShgHXxYd9BxuEGBfCKmv80AK/iPSfAA==" length="6855867" type="application/octet-stream"></enclosure></item><item><title>LiquidGlassTranslator 0.1.2</title><description sparkle:format="plain-text">Enables manual Sparkle checks for the approved Stable and Beta builds.
 
 为获准的 Stable 与 Beta 构建启用手动 Sparkle 更新检查。</description><sparkle:version>13</sparkle:version><sparkle:shortVersionString>0.1.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/Ssiswent/LiquidGlassTranslator-Releases/releases/download/v0.1.2/LiquidGlassTranslator-0.1.2-macOS-arm64.zip" sparkle:edSignature="3OaNJWypgJeF0A4KI/Dzpu1eJ/8l7gQlAn5he3TUSafM0o66ThwwP0XUVtZb2tX6T3dv5BjqScq7fxlX6H+hBg==" length="6855873" type="application/octet-stream"></enclosure></item></channel></rss><!-- sparkle-signatures:
-edSignature: DATgThlzu5n0i8s3BNtb+6jFwdexp9tY0Cxgkc/ip8sboFtFjJJPn5fPA11awpB/R5HHc33dI1hQ3uAWT7tPBw==
-length: 8371
+edSignature: EaC+/d8/O7WnpWNVSaLBz6bRWfxd7Gk60JEENTxbmU/phhQ4RatV71silD9KZym6Hg5qKCKCY7FkfNRLOlg8AQ==
+length: 9672
 -->
